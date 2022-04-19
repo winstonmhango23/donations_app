@@ -1,9 +1,7 @@
 # README
 
-This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
+This is the [Flask](http://flask.pocoo.org/) for donations purposes.
+It has been deployed on render.com at this link <a href="https://donations-application.onrender.com/">Flask donations_app</a>
 
-The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
+It is still under development. The purpose is to continiously develope and have it updated automatically on render.com servers.
 
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-flask.
